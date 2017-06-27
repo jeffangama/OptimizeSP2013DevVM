@@ -1,6 +1,6 @@
 OptimizeSP2013DevVM
 
- FileName: OptimizeSP2013ForDev.ps1
+FileName: OptimizeSP2013ForDev.ps1
 =============================================
  Created: 5/19/2013
  Author: Jeff ANGAMA started from Cory Peters
