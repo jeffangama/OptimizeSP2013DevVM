@@ -1,4 +1,3 @@
-##OptimizeSP2013DevVM
 OptimizeSP2013DevVM
 
  FileName: OptimizeSP2013ForDev.ps1
@@ -8,7 +7,7 @@ OptimizeSP2013DevVM
  Company: Eastridge
  Web: http://www.corypeters.net http://www.eastridge.net
 =============================================
-# Purpose:
+Purpose:
  SharePoint 2013 is VERY resource hungry and some of us are stuck with development 
  environments with just 16GB of RAM. In order to actually develop in these conditions 
  we must throttle services and be very careful how we configure our development environments.
